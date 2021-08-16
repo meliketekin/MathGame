@@ -1,0 +1,1 @@
+You can open the game by running the exe in the builds folder.
